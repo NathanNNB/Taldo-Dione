@@ -1,0 +1,126 @@
+
+Espacos de magia:
+1° 2° 3° 4°
+4  3  3  1
+
+Magias conhecidas:
+1 Enfeiticar pessoa (Utilidade)
+1 Riso histerico de tasha (Utilidade)
+1 Onda trovejante (Dano)
+1 Sussurros dissonantes (Dano)
+
+2 Zona da verdade (Utilidade)
+2 Detectar pensamento (Utilidade)
+2 Forca fantasmagorica (Utilidade)
+2 Despedacar (Dano)
+
+3 Andar na agua (Segredos magicos adicionais) (Utilidade)
+3 Relampago (Dano)
+3 Rogar maldicao (Utilidade)
+
+4 Porta Dimensional (Utilidade)
+4 Controlar a agua (Utilidade)
+
+Mais uma magia até nivel 3 a ser escolhida
+
+Magias de Tiefling:
+1 Repreensao infernal (Dano)
+2 Escuridao (Utilidade)
+2 Despedacar (Dano)
+
+truques:
+Ilusao menor (Utilidade)
+Amizade(Utilidade)
+taumaturgia (Utilidade)
+zopmbaria viciosa (Dano)
+
+talentos:
+Sortudo
+
+Habilidade: 
+    cancao de protecao
+    Inspiracao de bardo
+    SEGREDOS MÁGICOS ADICIONAIS
+Bonus de proeficiencia +3 
+Carisma +4
+
+CD = 8 + 3 + 4 = 15
+
+Antecedente: Ma reputacao 
+Em cidades portuarias sou tenho fama de mal.
+
+
+Bucket list 
+
+>Virar amigo de um kraken
+>Navegar por todos os mares
+>Comer uma carne de baleia bem feita
+>Apostar corrida com um tubarao
+>Talaricar um nobre escroto
+>Quebrar o coracao de uma nobre escrota
+>Fazer o maior show da minha terra natal quando eu retornar
+>Fazer um show no inferno
+>Desenhar chifres em um recem nascido
+>Lamber a careca de um recem nascido
+
+Nao conheceu o pai
+
+Aparencia
+Coturnos de couro
+1.70 m
+Brincos com uma esfera de pingente que possui eletricidade fluida dentro
+Cintos com fivelas ornamentadas 
+Camisa interna branca, com os 3 primerios botoes desabotoados
+Panos vermelhos nos pulsos (como uma munhequeira)
+Calcas de couro rasgadas
+Jaqueta de couro preta (com a manga curta até a munhequeira)
+Luvas que conduzem eletricidade
+
+Pele azul
+Chifres curtos vermelhos
+Olhos vermelhos
+Marca de nascenca no formato de um coracao atras do ombro esquerdo
+
+Manias:
+Fumante - Acendo meu cigarro com a ponta do meu dedo
+Fofoqueiro
+Nao sente pesar em mentir para desconhecidos
+Pessoas que me conhecem bem, tendem a saber quando estou mentindo, pq dou um risinho de lado
+Gosto de lamber coisas, nada demais mas nada de menos tambem
+Nao gosto de nobres, pois eles me odeiam, se eu me relacionar com eles é por interesse
+
+Fraqueza: 
+Molieres
+Dificuldade em sem comprometer com grupos
+Dificuldade em ser sincero
+Minha unica frustracao na musica, é nao saber assoviar
+
+Objetivo:
+Viver feitos incriveis e provar pra si mesmo que Tieflings podem fazer o que quiser
+Retornar pra minha terra natal e contar todos os meus feitos para inspirar as futuras geracoes
+
+
+
+Canncao da maldicao 
+
+Na tua mente, meus tambores vão tocar,
+Rogando a maldição, onde o meu ódio vai queimar.
+Que cada batida te traga aflição,
+Na sinfonia da vingança, tua vida é um eco vão.
+
+
+
+Galana
+
+Passar pelo continente dos orcs 
+
+Miguel
+
+
+Item:
+tambor: 
+lamento de um bardo
+Transforma um qualquer coisa 
+>1 spell bonus, Voar, invisibilidade, levitar, protecao contra o bem e o mal a cada descanso
+>Add proeficiencia para aumentar a cd de uma magia
+>3 usos da magia conversar com animais e amizade animal
